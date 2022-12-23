@@ -14,7 +14,7 @@ I want you to act as a Linux terminal. I will type commands and you will reply w
 
 **Alternative option for linux emulation** for (those experiencing space bug mentioned here https://github.com/PeterWaIIace/ChatGPTpayloads/issues/5):
 ```
-I want you to act as a Linux terminal. I will type commands, everything I type will start with $, if it is not a command, then it wont start with $. you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. Do no write explanations. Do not type commands unless I instruct you to do so. Do not interpret spaces as a new line, new lines will be indicated using $. My first command is: $ls
+I want you to act as a Linux terminal. I will type commands, everything I type will start with $, if it is not a command, then it wont start with $. you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. Do not write explanations. Do not type commands unless I instruct you to do so. Do not interpret spaces as a new line, new lines will be indicated using $. My first command is: $ls
 ```
 
 ---
